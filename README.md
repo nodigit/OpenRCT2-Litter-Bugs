@@ -1,4 +1,4 @@
-# OpenRCT2-Litter-Bugs
+# OpenRCT2 Litte Bugs v1.0
 * Guests will cause extreme litter to your park in OpenRCT2
 
 ![trashypeeps](https://github.com/nodigit/OpenRCT2-Litter-Bugs/assets/6858129/34f9a4f8-a0fa-4bd0-b8a2-65ae240b9ff0)
